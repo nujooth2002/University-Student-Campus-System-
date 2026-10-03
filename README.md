@@ -28,18 +28,16 @@ java Main
 
 Compiled `.class` files are excluded from Git by `.gitignore`.
 
-## Group Members
+## Contributors
 
-Replace every placeholder below with correct information before submission. Record actual contributions after the work has been completed; do not leave placeholders in the submitted README.
+Replace the placeholders with each member's correct details and actual contribution before submission. These are suggested responsibilities, not claims that a member has completed the work.
 
-| Member | Full name | Student ID | Responsibility | Actual individual contribution |
-| --- | --- | --- | --- | --- |
-| Member 1 | [ENTER NAME] | [ENTER ID] | Linked list and student-record management | [DESCRIBE WORK COMPLETED] |
-| Member 2 | [ENTER NAME] | [ENTER ID] | Stack, queue, and related operations | [DESCRIBE WORK COMPLETED] |
-| Member 3 | [ENTER NAME] | [ENTER ID] | BST and hashing/search functionality | [DESCRIBE WORK COMPLETED] |
-| Member 4 | [ENTER NAME] | [ENTER ID] | Graph, campus locations/connections, and BFS | [DESCRIBE WORK COMPLETED] |
+- **[Full name 1] ([Student ID]):** Student linked list and record management. Contribution: [what this member actually did].
+- **[Full name 2] ([Student ID]):** Action-history stack and service-request queue. Contribution: [what this member actually did].
+- **[Full name 3] ([Student ID]):** BST and hash-based student search. Contribution: [what this member actually did].
+- **[Full name 4] ([Student ID]):** Campus graph, locations, connections, and BFS. Contribution: [what this member actually did].
 
-All members should contribute to integration, validation, testing, debugging, documentation, GitHub collaboration, and the completed project. Update each member's contribution to reflect what they actually did.
+Also record real contributions to integration, testing, documentation, GitHub collaboration, and the demonstration video where applicable. If one person did most of the coding, describe that honestly rather than assigning unperformed work to other members.
 
 ## Suggested Test Checklist
 
